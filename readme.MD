@@ -1,10 +1,7 @@
-# Resume-Docs-Based-RAG-LLM
+# Resume-Analyzer-Bot
 
 Resume-Docs-Based-RAG-LLM is a system combining Retrieval-Augmented Generation (RAG) with LLMs to extract, retrieve, and generate insights from resumes and documents. Ideal for HR and document analysis, it supports smart search, contextual responses, and seamless integration into workflows.
 
-## Video
-
-[![Watch the video](https://img.youtube.com/vi/pgW_L4qVdiM/maxresdefault.jpg)](https://youtu.be/pgW_L4qVdiM)
 
 ## Features
 
@@ -15,7 +12,7 @@ Resume-Docs-Based-RAG-LLM is a system combining Retrieval-Augmented Generation (
 
 ## Colab Notebook to run the server
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IrSCU4nlVm8VFVSC98kJPXv98rFauwLR?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CUAxYrPC-2EWOwZIiwHFYB_1c381Q-Bf?usp=sharing)
 - Replace the `HF_TOKEN` and `NGROK_AUTHTOKEN`
 - Run the notebook and the server will be up and running
 - <b>Copy the ngrok link and use it in the frontend</b>
