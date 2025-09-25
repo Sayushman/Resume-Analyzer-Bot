@@ -21,7 +21,7 @@ Resume-Docs-Based-RAG-LLM is a system combining Retrieval-Augmented Generation (
 
 1. Clone the repository
 ```
-git clone https://github.com/Priyanshu-hawk/Resume-Docs-Based-Rag-LLM
+git clone https://github.com/Sayushman/Resume-Analyzer-Bot.git
 cd Resume-Docs-Based-Rag-LLM
 ```
 
